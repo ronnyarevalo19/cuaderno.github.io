@@ -1,0 +1,62 @@
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:cadetblue;
+    padding: 100px;
+  }
+
+h1{
+text-align: left; 
+font-family: Comic Sans MS; 
+font-weight:bold; 
+font-size: 30px; 
+color: #c9da8b; 
+text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68;;
+}
+
+h2{
+text-align: left; 
+font-family: Georgia, 'Times New Roman', Times, serif; 
+color: crimson;
+
+    
+}
+h3{
+text-align: left; 
+font-family: Georgia, 'Times New Roman', Times, serif; 
+color: black;
+
+ }
+
+hr{
+    height: 10px;
+  background-color: black;
+}
+div {
+    background-color: aliceblue;
+    padding: 50px;
+
+}
+
+.encabezado-image {
+    background-image: url(encabezado.jpg);
+    width: 1150px;
+    height: 300px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 500px;
+    height: 300px;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+
+}
+
+
